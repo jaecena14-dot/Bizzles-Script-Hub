@@ -1,5 +1,4 @@
 -- BIZZLES SCRIPT HUB V4.2 // INSTANT NO FOG & ENHANCED FULL BRIGHT
--- Place inside StarterPlayer -> StarterPlayerScripts as a LocalScript
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
